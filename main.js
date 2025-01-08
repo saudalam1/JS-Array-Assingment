@@ -5,4 +5,4 @@ ToDoList.unshift('study','assingment')
 console.log(ToDoList)
 ToDoList.pop()
 ToDoList.shift()
-console.log
+console.log(ToDoList)
